@@ -1,4 +1,10 @@
 body {
     background: purple;
     color: white;
+    font-size:4px;
+}
+
+div {
+    color: orange;
+    font-size:100px;
 }
